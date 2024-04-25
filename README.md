@@ -1,8 +1,6 @@
 
 <center>
-
 ### 👋 **Haider,** Passionate Full Stack Developer
-
 </center>
 
 ---
