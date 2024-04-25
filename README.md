@@ -1,5 +1,9 @@
 
-### 👋 **Haider,** a passionate Full Stack Developer Known for problem-solving and love for learning new technologies
+<center>
+
+### 👋 **Haider,** Passionate Full Stack Developer
+
+</center>
 
 ---
 
