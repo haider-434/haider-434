@@ -6,7 +6,7 @@
 </center>
 
 
-🔗 [Gmail](mhaider.workmail@gmail.com)  
+🔗 [Gmail][mhaider.workmail@gmail.com](mailto:mhaider.workmail@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/haider-ali-a90309306/)
 
 
