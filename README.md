@@ -1,5 +1,5 @@
 
-### 👋 ** Haider, Full Stack Developer. Known for problem-solving.***
+### 👋 **Haider,** a passionate Full Stack Developer Known for problem-solving and love for learning new technologies
 
 ---
 
