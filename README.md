@@ -1,36 +1,49 @@
-🌟 About Me
+### 🌟 **About Me**
+
 Passionate and skilled Full Stack Developer dedicated to crafting engaging digital experiences. Specializing in React.js, Next.js, and the MERN stack, with proficiency in Docker for streamlined deployment. Excels in building scalable web applications with precision and efficiency. Thrives on learning new technologies and solving complex problems.
 
-💼 Skills
-Languages:
-🔹 JavaScript
+---
+
+### 💼 **Skills**
+
+#### **Languages:**
+
+🔹 JavaScript  
 🔹 PHP
 
-Frontend:
-🔹 ReactJS
-🔹 Redux
-🔹 Context API
-🔹 Tailwind CSS
-🔹 Material UI
-🔹 Bootstrap
-🔹 AJAX
-🔹 Webflow
-🔹 WordPress
+#### **Frontend:**
 
-Backend:
-🔹 Node.js
-🔹 Express.js
-🔹 PHP
+🔹 ReactJS  
+🔹 Redux  
+🔹 Context API  
+🔹 Tailwind CSS  
+🔹 Material UI  
+🔹 Bootstrap  
+🔹 AJAX  
+🔹 Webflow  
+🔹 WordPress  
 
-Databases:
-🔹 MongoDB
-🔹 MySQL
+#### **Backend:**
+0
+🔹 Node.js  
+🔹 Express.js  
+🔹 PHP  
 
-Miscellaneous:
-🔹 Git
-🔹 GitHub
-🔹 Docker
-🔹 REST APIs
+#### **Databases:**
 
-📱 Mobile Development
+🔹 MongoDB  
+🔹 MySQL  
+
+#### **Miscellaneous:**
+
+🔹 Git  
+🔹 GitHub  
+🔹 Docker  
+🔹 REST APIs  
+
+---
+
+### 📱 **Mobile Development**
 Proficient in React Native for versatile mobile app development.
+
+---
