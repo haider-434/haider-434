@@ -5,19 +5,15 @@
   
 </center>
 
----
 
 🔗 [Gmail](mhaider.workmail@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/haider-ali-a90309306/)
 
----
 
 
 ### 🌟 **About Me**
 
 Passionate and skilled Full Stack Developer dedicated to crafting engaging digital experiences. Specializing in React.js, Next.js, Wordpress,Webflow, and the MERN stack, with proficiency in Docker for streamlined deployment. Excels in building scalable web applications with precision and efficiency. Thrives on learning new technologies and solving complex problems.
-
----
 
 
 ### 💼 **Skills**
@@ -57,9 +53,7 @@ Passionate and skilled Full Stack Developer dedicated to crafting engaging digit
 🔹 Docker  
 🔹 REST APIs  
 
----
 
 ### 📱 **Mobile Development**
 Proficient in React Native for versatile mobile app development.
 
----
