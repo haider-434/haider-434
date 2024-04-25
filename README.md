@@ -1,16 +1,36 @@
-### Hi there 👋
+🌟 About Me
+Passionate and skilled Full Stack Developer dedicated to crafting engaging digital experiences. Specializing in React.js, Next.js, and the MERN stack, with proficiency in Docker for streamlined deployment. Excels in building scalable web applications with precision and efficiency. Thrives on learning new technologies and solving complex problems.
 
-<!--
-**haider-434/haider-434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Skills
+Languages:
+🔹 JavaScript
+🔹 PHP
 
-Here are some ideas to get you started:
+Frontend:
+🔹 ReactJS
+🔹 Redux
+🔹 Context API
+🔹 Tailwind CSS
+🔹 Material UI
+🔹 Bootstrap
+🔹 AJAX
+🔹 Webflow
+🔹 WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+🔹 Node.js
+🔹 Express.js
+🔹 PHP
+
+Databases:
+🔹 MongoDB
+🔹 MySQL
+
+Miscellaneous:
+🔹 Git
+🔹 GitHub
+🔹 Docker
+🔹 REST APIs
+
+📱 Mobile Development
+Proficient in React Native for versatile mobile app development.
