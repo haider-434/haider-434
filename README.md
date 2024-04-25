@@ -1,3 +1,5 @@
+### 👋** Haider, Full Stack Developer passionate about crafting engaging digital experiences.**
+---
 ### 🌟 **About Me**
 
 Passionate and skilled Full Stack Developer dedicated to crafting engaging digital experiences. Specializing in React.js, Next.js, and the MERN stack, with proficiency in Docker for streamlined deployment. Excels in building scalable web applications with precision and efficiency. Thrives on learning new technologies and solving complex problems.
