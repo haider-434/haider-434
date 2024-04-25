@@ -7,6 +7,11 @@
 
 ---
 
+🔗 [Gmail](mhaider.workmail@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/haider-ali-a90309306/)
+
+---
+
 
 ### 🌟 **About Me**
 
@@ -35,7 +40,7 @@ Passionate and skilled Full Stack Developer dedicated to crafting engaging digit
 🔹 WordPress  
 
 #### **Backend:**
-0
+
 🔹 Node.js  
 🔹 Express.js  
 🔹 PHP  
